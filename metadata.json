@@ -1,0 +1,6 @@
+{
+  "name": "IKEA Food Stock",
+  "description": "Professional IKEA food inventory checking and warehouse stock counting WMS app",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
